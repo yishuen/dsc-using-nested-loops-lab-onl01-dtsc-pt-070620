@@ -7,6 +7,7 @@ In this lab, you'll practice using nested loops to iterate over nested data stru
 ## Objectives
 You will be able to:
 * Use a nested loop when it is appropriate
+* Loops r great
 
 ## Instructions
 
